@@ -85,20 +85,6 @@
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/amwplushies-fabric-1.20.1-4.2.12.jar"
         },
         {
-            "id": "accessories",
-            "version": "1.0.0-beta.47+1.20.1",
-            "name": "Accessories",
-            "filename": "accessories-fabric-1.0.0-beta.47+1.20.1.jar",
-            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/accessories-fabric-1.0.0-beta.47+1.20.1.jar"
-        },
-        {
-            "id": "tclayer",
-            "version": "3.8.1+beta.14",
-            "name": "Accessories Trinkets Compat Layer",
-            "filename": "accessories_tclayer-3.8.1-beta.14+1.20.1.jar",
-            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/accessories_tclayer-3.8.1-beta.14+1.20.1.jar"
-        },
-        {
             "id": "advancementplaques",
             "version": "1.6.7",
             "name": "Advancement Plaques",
@@ -344,13 +330,6 @@
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/Bountiful-6.0.4+1.20.1-fabric.jar"
         },
         {
-            "id": "buildguide",
-            "version": "0.4.5",
-            "name": "Build Guide",
-            "filename": "BuildGuide-1.20-0.4.5.jar",
-            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/BuildGuide-1.20-0.4.5.jar"
-        },
-        {
             "id": "bbb",
             "version": "1.20.1-fabric-1.0.2",
             "name": "Building But Better",
@@ -463,13 +442,6 @@
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/cobblemon_quests-[1.20.1]-fabric-1.1.11.jar"
         },
         {
-            "id": "cobblemonridingfabric",
-            "version": "1.2.6",
-            "name": "Cobblemon Riding Fabric",
-            "filename": "cobblemonridingfabric-1.2.6a.jar",
-            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/cobblemonridingfabric-1.2.6a.jar"
-        },
-        {
             "id": "cobblemon_spawn_notification",
             "version": "1.5-fabric-1.2.1",
             "name": "Cobblemon Spawn Notification",
@@ -498,13 +470,6 @@
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/CobblemonTrainers-1.1.11+1.5.2-fabric.jar"
         },
         {
-            "id": "cobblenav",
-            "version": "1.3.5",
-            "name": "Cobblenav",
-            "filename": "Cobblenav-1.3.5.jar",
-            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/Cobblenav-1.3.5.jar"
-        },
-        {
             "id": "cobblepedia",
             "version": "0.6.8",
             "name": "Cobblepedia",
@@ -524,13 +489,6 @@
             "name": "Collective",
             "filename": "collective-1.20.1-8.3.jar",
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/collective-1.20.1-8.3.jar"
-        },
-        {
-            "id": "colorfulhearts",
-            "version": "4.3.16",
-            "name": "Colorful Hearts",
-            "filename": "colorfulhearts-fabric-1.20.1-4.3.16.jar",
-            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/colorfulhearts-fabric-1.20.1-4.3.16.jar"
         },
         {
             "id": "comforts",
@@ -799,6 +757,13 @@
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar"
         },
         {
+            "id": "drippyloadingscreen",
+            "version": "3.0.8",
+            "name": "Drippy Loading Screen",
+            "filename": "drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar"
+        },
+        {
             "id": "dungeonnowloading",
             "version": "1.5",
             "name": "Dungeon Now Loading",
@@ -995,13 +960,6 @@
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar"
         },
         {
-            "id": "extra-mod-integrations",
-            "version": "0.4.7+1.20.1",
-            "name": "Extra Mod Integrations",
-            "filename": "extra-mod-integrations-0.4.7+1.20.1.jar",
-            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/extra-mod-integrations-0.4.7+1.20.1.jar"
-        },
-        {
             "id": "thiccpackets",
             "version": "1.17-1.19+",
             "name": "Extra Thicc Packets",
@@ -1042,6 +1000,13 @@
             "name": "Falling Leaves",
             "filename": "fallingleaves-1.15.6+1.20.1.jar",
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/fallingleaves-1.15.6+1.20.1.jar"
+        },
+        {
+            "id": "fancymenu",
+            "version": "3.3.2",
+            "name": "FancyMenu",
+            "filename": "fancymenu_fabric_3.3.2_MC_1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/fancymenu_fabric_3.3.2_MC_1.20.1.jar"
         },
         {
             "id": "farmersdelight",
@@ -1863,6 +1828,13 @@
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/oceansdelight-fdrf-fabric-1.0.2-1.20.jar"
         },
         {
+            "id": "overflowingbars",
+            "version": "8.0.1",
+            "name": "Overflowing Bars",
+            "filename": "OverflowingBars-v8.0.1-1.20.1-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/OverflowingBars-v8.0.1-1.20.1-Fabric.jar"
+        },
+        {
             "id": "owo",
             "version": "0.11.2+1.20",
             "name": "o\u03c9o",
@@ -1919,13 +1891,6 @@
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/PermanentSponges-v8.1.2-1.20.1-Fabric.jar"
         },
         {
-            "id": "pickupnotifications",
-            "version": "1.5.2",
-            "name": "Pickup Notifications",
-            "filename": "pickupnotifications-1.5.2+1.20.jar",
-            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/pickupnotifications-1.5.2+1.20.jar"
-        },
-        {
             "id": "ping-wheel",
             "version": "1.10.1",
             "name": "Ping Wheel",
@@ -1952,13 +1917,6 @@
             "name": "Polymorph",
             "filename": "polymorph-fabric-0.49.8+1.20.1.jar",
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/polymorph-fabric-0.49.8+1.20.1.jar"
-        },
-        {
-            "id": "polymorphic_tom",
-            "version": "1.0.3",
-            "name": "Polymorphic Tom",
-            "filename": "polymorphic-tom-1.0.3.jar",
-            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/polymorphic-tom-1.0.3.jar"
         },
         {
             "id": "puzzleslib",
@@ -2367,6 +2325,13 @@
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/TravelersTitles-1.20-Fabric-4.0.2.jar"
         },
         {
+            "id": "trinkets",
+            "version": "3.7.2",
+            "name": "Trinkets",
+            "filename": "trinkets-3.7.2.jar",
+            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/trinkets-3.7.2.jar"
+        },
+        {
             "id": "trowel",
             "version": "1.3.0-1.20",
             "name": "Trowel",
@@ -2386,6 +2351,13 @@
             "name": "Universal Shops",
             "filename": "universal_shops-1.3.2+1.20.1.jar",
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/universal_shops-1.3.2+1.20.1.jar"
+        },
+        {
+            "id": "vanityslots",
+            "version": "1.2.9",
+            "name": "Vanity Slots",
+            "filename": "VanitySlots-1.2.9.jar",
+            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/VanitySlots-1.2.9.jar"
         },
         {
             "id": "visuality",
@@ -2414,13 +2386,6 @@
             "name": "What Are They Up To",
             "filename": "watut-fabric-1.20.1-1.1.3.jar",
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/watut-fabric-1.20.1-1.1.3.jar"
-        },
-        {
-            "id": "whats_that_slot",
-            "version": "1.3.4+1.20.1",
-            "name": "What's That Slot?",
-            "filename": "whats-that-slot-fabric-1.3.4+1.20.1.jar",
-            "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/whats-that-slot-fabric-1.3.4+1.20.1.jar"
         },
         {
             "id": "yet_another_config_lib_v3",
@@ -2465,5 +2430,5 @@
             "url": "https://raw.githubusercontent.com/oldjollysanta/DVS-CosyCraft/main/mod_pool/Zoomify-2.14.2+1.20.1.jar"
         }
     ],
-    "version": "1.1.4"
+    "version": "1.1.3"
 }
