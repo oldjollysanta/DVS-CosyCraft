@@ -1,4 +1,5 @@
 {
+    "version": "1.0",
     "files": [
         {
             "id": "skinlayers3d",
@@ -83,20 +84,6 @@
             "name": "A Man With Plushies",
             "filename": "amwplushies-fabric-1.20.1-4.2.12.jar",
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/amwplushies-fabric-1.20.1-4.2.12.jar"
-        },
-        {
-            "id": "accessories",
-            "version": "1.0.0-beta.47+1.20.1",
-            "name": "Accessories",
-            "filename": "accessories-fabric-1.0.0-beta.47+1.20.1.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/accessories-fabric-1.0.0-beta.47+1.20.1.jar"
-        },
-        {
-            "id": "tclayer",
-            "version": "3.8.1+beta.14",
-            "name": "Accessories Trinkets Compat Layer",
-            "filename": "accessories_tclayer-3.8.1-beta.14+1.20.1.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/accessories_tclayer-3.8.1-beta.14+1.20.1.jar"
         },
         {
             "id": "advancementplaques",
@@ -358,13 +345,6 @@
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/Bountiful-6.0.4+1.20.1-fabric.jar"
         },
         {
-            "id": "buildguide",
-            "version": "0.4.5",
-            "name": "Build Guide",
-            "filename": "BuildGuide-1.20-0.4.5.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/BuildGuide-1.20-0.4.5.jar"
-        },
-        {
             "id": "bbb",
             "version": "1.20.1-fabric-1.0.2",
             "name": "Building But Better",
@@ -477,13 +457,6 @@
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/cobblemon_quests-[1.20.1]-fabric-1.1.11.jar"
         },
         {
-            "id": "cobblemonridingfabric",
-            "version": "1.2.6",
-            "name": "Cobblemon Riding Fabric",
-            "filename": "cobblemonridingfabric-1.2.6a.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/cobblemonridingfabric-1.2.6a.jar"
-        },
-        {
             "id": "cobblemon_spawn_notification",
             "version": "1.5-fabric-1.2.1",
             "name": "Cobblemon Spawn Notification",
@@ -512,13 +485,6 @@
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/CobblemonTrainers-1.1.11+1.5.2-fabric.jar"
         },
         {
-            "id": "cobblenav",
-            "version": "1.3.5",
-            "name": "Cobblenav",
-            "filename": "Cobblenav-1.3.5.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/Cobblenav-1.3.5.jar"
-        },
-        {
             "id": "cobblepedia",
             "version": "0.6.8",
             "name": "Cobblepedia",
@@ -538,13 +504,6 @@
             "name": "Collective",
             "filename": "collective-1.20.1-8.3.jar",
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/collective-1.20.1-8.3.jar"
-        },
-        {
-            "id": "colorfulhearts",
-            "version": "4.3.16",
-            "name": "Colorful Hearts",
-            "filename": "colorfulhearts-fabric-1.20.1-4.3.16.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/colorfulhearts-fabric-1.20.1-4.3.16.jar"
         },
         {
             "id": "comforts",
@@ -813,6 +772,13 @@
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar"
         },
         {
+            "id": "drippyloadingscreen",
+            "version": "3.0.8",
+            "name": "Drippy Loading Screen",
+            "filename": "drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar"
+        },
+        {
             "id": "dungeonnowloading",
             "version": "1.5",
             "name": "Dungeon Now Loading",
@@ -1009,13 +975,6 @@
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar"
         },
         {
-            "id": "extra-mod-integrations",
-            "version": "0.4.7+1.20.1",
-            "name": "Extra Mod Integrations",
-            "filename": "extra-mod-integrations-0.4.7+1.20.1.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/extra-mod-integrations-0.4.7+1.20.1.jar"
-        },
-        {
             "id": "thiccpackets",
             "version": "1.17-1.19+",
             "name": "Extra Thicc Packets",
@@ -1056,6 +1015,13 @@
             "name": "Falling Leaves",
             "filename": "fallingleaves-1.15.6+1.20.1.jar",
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/fallingleaves-1.15.6+1.20.1.jar"
+        },
+        {
+            "id": "fancymenu",
+            "version": "3.3.2",
+            "name": "FancyMenu",
+            "filename": "fancymenu_fabric_3.3.2_MC_1.20.1.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/fancymenu_fabric_3.3.2_MC_1.20.1.jar"
         },
         {
             "id": "farmersdelight",
@@ -1884,6 +1850,13 @@
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/oceansdelight-fdrf-fabric-1.0.2-1.20.jar"
         },
         {
+            "id": "overflowingbars",
+            "version": "8.0.1",
+            "name": "Overflowing Bars",
+            "filename": "OverflowingBars-v8.0.1-1.20.1-Fabric.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/OverflowingBars-v8.0.1-1.20.1-Fabric.jar"
+        },
+        {
             "id": "owo",
             "version": "0.11.2+1.20",
             "name": "o\u03c9o",
@@ -1940,13 +1913,6 @@
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/PermanentSponges-v8.1.2-1.20.1-Fabric.jar"
         },
         {
-            "id": "pickupnotifications",
-            "version": "1.5.2",
-            "name": "Pickup Notifications",
-            "filename": "pickupnotifications-1.5.2+1.20.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/pickupnotifications-1.5.2+1.20.jar"
-        },
-        {
             "id": "ping-wheel",
             "version": "1.10.1",
             "name": "Ping Wheel",
@@ -1973,13 +1939,6 @@
             "name": "Polymorph",
             "filename": "polymorph-fabric-0.49.8+1.20.1.jar",
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/polymorph-fabric-0.49.8+1.20.1.jar"
-        },
-        {
-            "id": "polymorphic_tom",
-            "version": "1.0.3",
-            "name": "Polymorphic Tom",
-            "filename": "polymorphic-tom-1.0.3.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/polymorphic-tom-1.0.3.jar"
         },
         {
             "id": "puzzleslib",
@@ -2388,6 +2347,13 @@
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/TravelersTitles-1.20-Fabric-4.0.2.jar"
         },
         {
+            "id": "trinkets",
+            "version": "3.7.2",
+            "name": "Trinkets",
+            "filename": "trinkets-3.7.2.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/trinkets-3.7.2.jar"
+        },
+        {
             "id": "trowel",
             "version": "1.3.0-1.20",
             "name": "Trowel",
@@ -2407,6 +2373,13 @@
             "name": "Universal Shops",
             "filename": "universal_shops-1.3.2+1.20.1.jar",
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/universal_shops-1.3.2+1.20.1.jar"
+        },
+        {
+            "id": "vanityslots",
+            "version": "1.2.9",
+            "name": "Vanity Slots",
+            "filename": "VanitySlots-1.2.9.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/VanitySlots-1.2.9.jar"
         },
         {
             "id": "visuality",
@@ -2435,13 +2408,6 @@
             "name": "What Are They Up To",
             "filename": "watut-fabric-1.20.1-1.1.3.jar",
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/watut-fabric-1.20.1-1.1.3.jar"
-        },
-        {
-            "id": "whats_that_slot",
-            "version": "1.3.4+1.20.1",
-            "name": "What's That Slot?",
-            "filename": "whats-that-slot-fabric-1.3.4+1.20.1.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/whats-that-slot-fabric-1.3.4+1.20.1.jar"
         },
         {
             "id": "weaponmaster_ydm",
@@ -2493,5 +2459,5 @@
             "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/Zoomify-2.14.2+1.20.1.jar"
         }
     ],
-    "version": "1.1"
+    "releaseNotes": "Modpack Version 1.0\n\nAdded Mods\n- 3d-Skin-Layers v1.7.5\n- A Man With Plushies v4.2.12\n- Advancement Plaques v1.6.7\n- Alloy Forgery v2.1.2+1.20\n- AlmostUnified v1.20.1-0.9.4\n- Amendments v1.20-1.2.14\n- Another Furniture v1.20.1-3.0.1\n- AppleSkin v2.5.1+mc1.20\n- Architectury v9.2.14\n- Artifacts v9.5.13\n- Ascension Megamons v1.5.0+1.20.1-forge+fabric-75b66fa\n- Athena v3.1.2\n- AttributeFix v21.0.4\n- Auth Me v7.0.2+1.20\n- Autochef's Delight v1.0.6+fabric\n- Automobility v0.4.2+1.20.1-fabric\n- Axolotl Item Fix v1.1.7\n- BCG Music v1.1.0-1.20.1\n- BCG Util v1.0.5\n- BCG_SMP v1.0.1\n- BCLib v3.0.14\n- Bad Wither No Cookie Reloaded v3.17.2\n- Balm v7.3.11\n- Bartering Station v8.0.0\n- Beautify v1.2.0+1.20.1\n- BedBenefits v13.0.3\n- Better Archeology v1.2.1-1.20.1\n- Better Beds v1.3.0\n- Better Climbing v3\n- Better Combat v1.8.6+1.20.1\n- Better Eating v0.4.0\n- Better End v4.0.11\n- Better Third Person v1.9.0\n- BetterF3 v7.0.2\n- Bl\u00e5haj v0.3.2\n- Boat Break Fix v1.0.2\n- Bookshelf v20.2.13\n- Bountiful v6.0.4+1.20.1\n- Building But Better v1.20.1-fabric-1.0.2\n- Carry On v2.1.2.7\n- Charm of Undying v6.5.0+1.20.1\n- Chat Heads v0.13.7\n- Chefs Delight v1.0.3-fabric-1.20.1\n- Chimes v2.0.1\n- Chipped v3.0.7\n- Clickable Advancements Mod v1.20.1-3.8\n- Cloth Config v11 v11.1.136\n- Clumps v12.0.0.4\n- Cluttered v2.1.0+1.20.1\n- Cobbledex v1.1.0\n- Cobblemon v1.5.2+1.20.1\n- Cobblemon Fight or Flight Fabric v0.5.0\n- Cobblemon Integrations v1.0.7\n- Cobblemon Quests v1.1.11\n- Cobblemon Spawn Notification v1.5-fabric-1.2.1\n- Cobblemon UI Tweaks v1.0.6\n- Cobblemon: Simple TM's v1.1.2\n- CobblemonTrainers v1.1.11+1.5.2\n- Cobblepedia v0.6.8\n- Cobbreeding v1.7.2\n- Collective v8.3\n- Comforts v6.4.0+1.20.1\n- Common Network v1.0.5-1.20.1\n- CompactStorage v6.0.1.64\n- Connectivity Mod v1.20.1-6.3\n- Controlling For Fabric v12.0.2\n- Convenient Decor v0.4.3\n- CoroUtil v1.20.1-1.3.7\n- CosyCraft Updater v1.0.0\n- Create v0.5.1-j-build.1631+mc1.20.1\n- Create Cobblestone v1.4.4+fabric-1.20.1-95\n- Create Crafts & Additions v1.2.4\n- Create Deco v2.0.2-1.20.1-fabric\n- Create Enchantment Industry v1.2.16\n- Create Jetpack v4.3.0\n- Create Questing v1.0.0\n- Create Slice & Dice v3.3.1\n- Create: Cobblemon Industrialized v0.5-1.20.1\n- Create: Copycats+ v2.1.4+mc.1.20.1-fabric\n- Create: Let The Adventure Begin v2.7.0\n- Create: Power Loader v1.5.3-mc1.20.1-fabric\n- Create: Steam 'n' Rails v1.6.9+fabric-mc1.20.1\n- Create: Structures v1.1.0\n- Create: Train Perspective Fix v1.0.0\n- Creeper Overhaul v3.0.2\n- Critters and Companions v2.2.2\n- Crumbling Hearts v1.4\n- Cultural Creators v1.1.0\n- Custom Credits v1.7\n- Daily Shop v1.0.2\n- DarkUtilities v17.0.5\n- DeathLog v0.3.2+1.20\n- Debugify v1.20.1+2.0\n- Diagonal Fences v8.1.5\n- Diagonal Walls v8.0.4\n- Diagonal Windows v8.1.5\n- DisablePortalChecks v1.0.0\n- Distant Horizons v2.3.2-b\n- Drippy Loading Screen v3.0.8\n- Dungeon Now Loading v1.5\n- Dungeons and Taverns Ancient City Overhaul v1\n- Dynamic Crosshair v9.3\n- Dynamic Crosshair Compat v4.2\n- EMI v1.1.19+1.20.1+fabric\n- EMI Enchants v1.0.0\n- EMI Loot v0.7.6+1.20.1+fabric\n- EMI Ores v1.2+1.20.1+fabric\n- EMI Trades v1.2.1+mc1.20.1\n- EMIffect v1.1.2+mc1.20.1\n- Easy Anvils v8.0.2\n- Easy Magic v8.0.1\n- Eating Animation v1.20+1.9.61\n- Elytra Slot v6.4.4+1.20.1\n- Emotecraft v2.2.7-b.build.50\n- End Remastered v5.2.4\n- End's Delight vrefabricated-1.20.1-2.5\n- Enderman Overhaul v1.0.4\n- Enhanced Block Entities v0.9+1.20\n- Entity Model Features v2.4.1\n- Entity Texture Features v6.2.9\n- EntityCulling v1.7.4\n- Every Compat v1.20-2.8.6\n- Expanded Delight v0.3.2\n- Explosive Enhancement v1.3.2-1.20-1.20.4\n- Exposure v1.7.7\n- Extended Cogwheels v2.1.1-1.20.1-0.5.1.f-fabric\n- Extra Thicc Packets v1.17-1.19+\n- ExtraBounties v1.3.7\n- FPS-Display v3.1.0+1.20.x\n- FTB Chunks v2001.3.4\n- FTB Essentials v2001.2.2\n- FTB Library v2001.2.7\n- FTB Quests v2001.4.9\n- FTB Teams v2001.3.0\n- FTB XMod Compat v2.1.2\n- Fabric API v0.92.3+1.20.1\n- Fabric Language Kotlin v1.13.0+kotlin.2.1.0\n- Fabric Waystones v3.3.2+mc1.20.1\n- Falling Leaves v1.15.6\n- FancyMenu v3.3.2\n- Farmer's Delight v1.20.1-2.2.5+refabricated\n- Fast IP Ping v1.0.5\n- Fast Paintings v1.20-1.2.7\n- FastAnim v1.6\n- Faster Random v5.1.0\n- FerriteCore v6.0.1\n- FindMe v3.2.1\n- Forge Config API Port v8.0.1\n- Framework v0.6.16\n- Friends & Foes v3.0.6\n- Friends&Foes - Flowery Mooblooms v2.0.2\n- FuelInfo v1.1.0+1.20.1\n- Fzzy Config v0.7.0+1.20.1\n- Fzzy Core v0.5.1+1.20.1\n- Gear Core v0.3.8+1.20.1\n- Gearifiers v0.7.0+1.20.1\n- GeckoLib 4 v4.7\n- GlitchCore v0.0.1.1\n- Global Data- & Resourcepacks v1.16.1_fabric\n- Go Fish v1.6.3+1.20.1\n- Goblin Traders v1.9.3\n- Gpu memory leak fix mod v1.20.1-1.8\n- Grind Enchantments v3.1.4+1.20.1\n- GuardVillagers v2.0.9-1.20.1\n- Guarding v2.4.0\n- GymBadges v1.0\n- Hamsters vfabric-1.0.3-1.20.1\n- Handcrafted v3.0.6\n- Herds Panic v1.1.0\n- Highlighter v1.1.9\n- Hopo Better Mineshaft v1.2.2\n- Hopo Better Ruined Portal v1.3.7\n- Hopo Better Underwater Ruins v1.1.5\n- Horse Expert v8.1.1\n- Icarus v2.10.0\n- Iceberg v1.1.25\n- Illager Invasion v8.0.6\n- ImmediatelyFast v1.3.3+1.20.4\n- Immersive Aircraft v1.1.8+1.20.1\n- Immersive Paintings v0.6.7+1.20.1\n- Incantationem v1.2.1+1.20\n- Incendium v5.3.5\n- Indium v1.0.36+mc1.20.1\n- Inventory Profiles Next v1.10.11\n- Iris v1.7.6+mc1.20.1\n- Iris Flywheel Compat v1.1.4\n- Item Collectors v1.1.10\n- Item Filters v2001.1.0-build.59\n- Item Obliterator v2.3.0\n- Items Displayed v1.3\n- Jade v11.11.0+fabric\n- Jade Addons v5.4.0+fabric\n- JourneyMapIntegration v1.20.1-0.14-48\n- Journeymap v5.10.3\n- Joy of Painting vfabric-1.20.1-1.0.1\n- Jump Over Fences v1.3.1\n- Kambrik v6.1.1+1.20.1\n- Keybind Fix v1.0.0\n- Konkrete v1.8.1\n- KubeJS v2001.6.5-build.16\n- Language Reload v1.7.2+1.20.1\n- Leave My Bars Alone v8.0.0\n- Librarian's Balance v3.5-(1.20.1)\n- Lighty v2.1.3+1.20.1\n- Lithium v0.11.2\n- Log Begone v1.0.8\n- Lootr v0.7.35.85\n- Macaw's Bridges v3.0.0\n- Macaw's Doors v1.1.1\n- Macaw's Fences and Walls v1.1.2\n- Macaw's Furniture v3.3.0\n- Macaw's Holidays v1.1.0\n- Macaw's Lights and Lamps v1.1.1\n- Macaw's Paths and Pavings v1.0.5\n- Macaw's Roofs v2.3.1\n- Macaw's Trapdoors v1.1.4\n- Macaw's Windows v2.3.0\n- Magnum Torch v8.0.2\n- Make Bubbles Pop v0.3.0-fabric\n- Man of Many Planes v0.2.0+1.20.1\n- Melody v1.0.3\n- Memory Leak Fix v1.1.2\n- Mighty Mail v1.0.14\n- MixinTrace v1.1.1+1.17\n- Mod Menu v7.2.2\n- Model Gap Fix v1.15\n- Modern Glass Doors v5.1.2+1.20-and-later\n- ModernFix v5.20.0+mc1.20.1\n- Monsters in the Closet v1.0.3+1.20\n- Moonlight v1.20-2.14.4\n- More Armor Trims v1.4.2-1.20.1\n- More Axolotl v2.0.1\n- More Axolotl Variants API v1.1.4\n- More Axolotl Variants Mod v1.2.6\n- Mouse Tweaks v2.26\n- Music Maker Mod vfabric-1.20.1-1.0.2\n- Mythic Metals v0.19.9+1.20.1\n- Naturalist v4.0.3\n- Nature's Compass v1.20.1-2.2.3-fabric\n- Necronomicon v1.6.0\n- Night Lights v1.1\n- No Animal Tempt Delay v1.2\n- No Chat Reports v1.20.1-v2.2.2\n- NotEnoughAnimations v1.9.0\n- Numismatic Bounties v1.1\n- Numismatic Overhaul v0.2.14+1.20\n- Observable v4.4.2\n- Ocean's Delight vfdrf-fabric-1.0.2-1.20\n- Overflowing Bars v8.0.1\n- Packet Fixer v1.4.3\n- Paragliders v20.1.3\n- Particle Core v0.2.5+1.20.1\n- Particle Rain v3.0.6-1.20\n- Patchouli v1.20.1-84-FABRIC\n- Pehkui v3.8.3+1.14.4-1.21\n- Permanent Sponges v8.1.2\n- Ping Wheel v1.10.1\n- Player Animator v1.0.2-rc1+1.20\n- Plushie Mod v1.4.0\n- Polymorph v0.49.8+1.20.1\n- Puzzles Lib v8.1.25\n- Radical Cobblemon Trainers v0.12.1-beta\n- Ragna Goblin v2.1.0\n- Reacharound v1.3.1\n- Rebind Narrator v2.0.2\n- Reese's Sodium Options v1.7.2+mc1.20.1-build.101\n- Remove Terralith Intro Message v1.0\n- Resource Pack Overrides v8.0.3\n- Resourceful Lib v2.1.29\n- Resourcefulconfig v2.1.2\n- Rhino v2001.2.3-build.6\n- Ribbits v1.20.1-Fabric-3.0.2\n- Runelic v18.0.2\n- Searchables v1.0.3\n- SeasonHUD v1.11.7\n- Selling Bin v1.0.9\n- SereneSeasons v9.1.0.0\n- Simple Discord Rich Presence v4.0.3-build.40+mc1.20.1\n- Simple Voice Chat v1.20.1-2.5.26\n- SimpleHats v1.20.1-0.3.2\n- Simply Swords v1.56.0-1.20.1\n- Small Ships v2.0.0-b1.4\n- SmallHorseStable v1.1.0\n- Smooth Swapping v0.9.3.1\n- Snuffles v1.0.0+1.20\n- Sodium v0.5.13+mc1.20.1\n- Sodium Extra v0.5.9+mc1.20.1\n- Spice of Fabric v1.6.2+mc1.20.1\n- Stacc v1.7.0\n- Stack Refill v4.7\n- Stack to Nearby Chests v0.5.10\n- Stone Zone v1.20-2.8.7\n- Straw Statues v8.0.3\n- Structory v1.3.5\n- Structory: Towers v1.0.7\n- Structure Essentials Mod v1.20.1-3.4\n- Stylish Effects v8.0.2\n- Subtle Effects v1.10.1\n- SuperMartijn642's Config Lib v1.1.8+a\n- SuperMartijn642's Core Lib v1.1.18+a\n- Supplementaries v1.20-3.1.31\n- Supplementaries Squared v1.20-1.1.21\n- TCD Commons API v3.12.3.3+fabric-1.20.1\n- TerraBlender v3.0.1.7\n- Terralith v2.5.4\n- Things v0.3.3+1.20\n- Tiny Item Animations v1.20-1.1\n- Tom's Simple Storage Mod v1.6.9\n- ToolStats v16.0.9\n- Trade Cycling v1.20.1-1.0.7\n- Trading Post v8.0.2\n- Trash Cans v1.0.18\n- Traveler's Backpack v9.1.18\n- Traveler's Titles v1.20-Fabric-4.0.2\n- Trinkets v3.7.2\n- Trowel v1.3.0-1.20\n- Ube's Delight v0.3.2\n- Universal Shops v1.3.2+1.20.1\n- Vanity Slots v1.2.9\n- Visuality v0.7.1+1.20\n- Wakes v0.4.0+1.20.1\n- WaveyCapes v1.5.2\n- What Are They Up To v1.20.1-1.1.3\n- YDM's Weapon Master v4.2.3\n- YOSBR v0.1.2\n- YUNG's API v1.20-Fabric-4.0.6\n- YUNG's Extras v1.20-Fabric-4.0.3\n- YetAnotherConfigLib v3.6.2+1.20.1-fabric\n- You're in Grave Danger v2.0.14\n- Zoomify v2.14.2+1.20.1\n- [Let's Do Addon] Compat v2.2.3\n- [Let's Do Addon] Corn Expansion v1.0.4\n- [Let's Do] API v1.2.15\n- [Let's Do] Bakery v2.0.5\n- [Let's Do] Brewery v2.0.5\n- [Let's Do] Candlelight v1.2.13\n- [Let's Do] Farm & Charm v1.0.9\n- [Let's Do] HerbalBrews v1.0.8.1\n- [Let's Do] NetherVinery v1.2.17\n- [Let's Do] Vinery v1.4.39\n- blossom blade v1.0.0\n- cupboard v1.20.1-2.7\n- emi-letsdo-compat v1.5\n- idwtialsimmoedm v0.3.1+1.20\n- labels v1.20-2.0.0\n- libIPN v4.0.2\n- o\u03c9o v0.11.2+1.20\n- recipeessentials Mod v1.20.1-3.9\n- sawmillhouse v1.3.0\n- spark v1.10.53\n- theorcs vfabric-1.20.x-1.0\n"
 }
