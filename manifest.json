@@ -1,14 +1,14 @@
 {
-    "version": "1.3.1",
+    "version": "1.4",
     "requiredUpdaterVersion": "1.1.4",
     "files": [
         {
             "id": "skinlayers3d",
-            "version": "1.8.1",
+            "version": "1.8.2",
             "name": "3d-Skin-Layers",
-            "filename": "skinlayers3d-fabric-1.8.1-mc1.20.1.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/skinlayers3d-fabric-1.8.1-mc1.20.1.jar",
-            "sha256": "804b435a211b51c676e68648da2f64be60a86a08bedbed2929e4daa500289f77"
+            "filename": "skinlayers3d-fabric-1.8.2-mc1.20.1.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/skinlayers3d-fabric-1.8.2-mc1.20.1.jar",
+            "sha256": "372eb8f20d7c669906a2af26b154dc395902201f7fea848fa0a3a1ef2840b53f"
         },
         {
             "id": "letsdocompat",
@@ -52,11 +52,11 @@
         },
         {
             "id": "candlelight",
-            "version": "1.2.13",
+            "version": "2.0.4",
             "name": "[Let's Do] Candlelight",
-            "filename": "letsdo-candlelight-fabric-1.2.13.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/letsdo-candlelight-fabric-1.2.13.jar",
-            "sha256": "aa1d3b5db1c251f42d3d943a24e7ff5c0e6757f0a776a90054de5583abf6da39"
+            "filename": "letsdo-candlelight-fabric-2.0.4.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/letsdo-candlelight-fabric-2.0.4.jar",
+            "sha256": "ab1f604f56e3ac7080cfe7e7f6a6ccd3e6c1800dbef501a61a378b7b42b3fc31"
         },
         {
             "id": "farm_and_charm",
@@ -244,11 +244,11 @@
         },
         {
             "id": "balm",
-            "version": "7.3.31",
+            "version": "7.3.33",
             "name": "Balm",
-            "filename": "balm-fabric-1.20.1-7.3.31.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/balm-fabric-1.20.1-7.3.31.jar",
-            "sha256": "35b0d181ab7b3b7ec12edad48539a18887e34a4d13fcba2f60a167c7220e2bcc"
+            "filename": "balm-fabric-1.20.1-7.3.33.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/balm-fabric-1.20.1-7.3.33.jar",
+            "sha256": "ad2fa0745b67c78628ea9e619aed1709b25c4e070b1632ec49919a28971105eb"
         },
         {
             "id": "barteringstation",
@@ -420,11 +420,11 @@
         },
         {
             "id": "bbb",
-            "version": "1.20.1-fabric-1.0.2",
+            "version": "2.0pre2",
             "name": "Building But Better",
-            "filename": "bbb-1.20.1-fabric-1.0.2.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/bbb-1.20.1-fabric-1.0.2.jar",
-            "sha256": "6a0743c5260449b86a6e9f8811beca72a80e4c7035fe1846166b72b99c2ddc41"
+            "filename": "bbb-fabric-2.0pre2.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/bbb-fabric-2.0pre2.jar",
+            "sha256": "73327f1259278d88a54bf834291e976e7adac5ee66f0af18644d63ca024adbc4"
         },
         {
             "id": "carryon",
@@ -643,14 +643,6 @@
             "sha256": "313775b5387a7f19166a00771c7ff90bca524baa26e9476d6d7ef20e1920dc9e"
         },
         {
-            "id": "connectivity",
-            "version": "1.20.1-7.1",
-            "name": "Connectivity Mod",
-            "filename": "connectivity-fabric-1.20.1-7.1.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/connectivity-fabric-1.20.1-7.1.jar",
-            "sha256": "a20779e9f6e6a76aea1cdc4d803c3cc2859a0a6edef40a961067daafd30b3686"
-        },
-        {
             "id": "controlling",
             "version": "12.0.2",
             "name": "Controlling For Fabric",
@@ -812,11 +804,11 @@
         },
         {
             "id": "crittersandcompanions",
-            "version": "2.2.2",
+            "version": "1.20.1-2.3.0",
             "name": "Critters and Companions",
-            "filename": "crittersandcompanions-fabric-2.2.2.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/crittersandcompanions-fabric-2.2.2.jar",
-            "sha256": "997bc8bbc6ed27fa0b6f245bfe2a063cda4a54434c1665a4fad528a6670eae71"
+            "filename": "crittersandcompanions-fabric-1.20.1-2.3.0.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/crittersandcompanions-fabric-1.20.1-2.3.0.jar",
+            "sha256": "66ff7d0b4c57e39b341b00c4a0051e0f541e32ce1a8a7cfcc042c2f04c8bb737"
         },
         {
             "id": "crumbling_hearts",
@@ -916,11 +908,11 @@
         },
         {
             "id": "distanthorizons",
-            "version": "2.3.2-b",
+            "version": "2.3.4-b",
             "name": "Distant Horizons",
-            "filename": "DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar",
-            "sha256": "3ec7e3c45ef94e197b325e918fc879acc0ccbc5afb5ef5ac64406d5af79f842e"
+            "filename": "DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
+            "sha256": "1839192370c215caddfdb4d228dfcfb7537b6ea3d237321581b9200c28c47996"
         },
         {
             "id": "dungeonnowloading",
@@ -940,11 +932,11 @@
         },
         {
             "id": "dynamiccrosshair",
-            "version": "9.6",
+            "version": "9.8",
             "name": "Dynamic Crosshair",
-            "filename": "dynamiccrosshair-9.6+1.20.1-fabric.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/dynamiccrosshair-9.6%2B1.20.1-fabric.jar",
-            "sha256": "fab6e1b4a1be3912d93c6eeae16f68369a51dc1cc81f22c3078f10f9bddcf98c"
+            "filename": "dynamiccrosshair-9.8+1.20.1-fabric.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/dynamiccrosshair-9.8%2B1.20.1-fabric.jar",
+            "sha256": "9d35948058daeb7237521a274ee4017a13b71147fb22ffbd880f25eddcd28526"
         },
         {
             "id": "dynamiccrosshaircompat",
@@ -1028,11 +1020,11 @@
         },
         {
             "id": "emi_letsdo_compat",
-            "version": "1.5",
+            "version": "1.6",
             "name": "emi-letsdo-compat",
-            "filename": "emi-letsdo-compat-1.5.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/emi-letsdo-compat-1.5.jar",
-            "sha256": "ea6d5837327a227315c85f4366515e35fd5c7c165b3631ecf3298ec4d9547f98"
+            "filename": "emi-letsdo-compat-1.6.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/emi-letsdo-compat-1.6.jar",
+            "sha256": "9a03a98a93b09ad00dadd02fa6a7d16aad5a7b8848e18624b436040fdf9df7b2"
         },
         {
             "id": "emiffect",
@@ -1100,19 +1092,19 @@
         },
         {
             "id": "entityculling",
-            "version": "1.8.1",
+            "version": "1.8.2",
             "name": "EntityCulling",
-            "filename": "entityculling-fabric-1.8.1-mc1.20.1.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/entityculling-fabric-1.8.1-mc1.20.1.jar",
-            "sha256": "1f32b750e0aab51517951e757b23da406b1a82b8fc1bd76973308eac346478c7"
+            "filename": "entityculling-fabric-1.8.2-mc1.20.1.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/entityculling-fabric-1.8.2-mc1.20.1.jar",
+            "sha256": "0d60625bc4c7d785d704e2f4717dc25220dc70fe363c40a5b54229641162ca8f"
         },
         {
             "id": "everycomp",
-            "version": "1.20-2.8.12",
+            "version": "1.20-2.8.13",
             "name": "Every Compat",
-            "filename": "everycomp-1.20-2.8.12-fabric.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/everycomp-1.20-2.8.12-fabric.jar",
-            "sha256": "edcb7ee6e9badd68a519d8146938e7d64221d261e461994ef43a2a045a055e68"
+            "filename": "everycomp-1.20-2.8.13-fabric.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/everycomp-1.20-2.8.13-fabric.jar",
+            "sha256": "e0132f794d40ab7c356e74a5d7555369925c119cbad53b0ffbb31dc9f421ac49"
         },
         {
             "id": "expandeddelight",
@@ -1356,11 +1348,11 @@
         },
         {
             "id": "fzzy_config",
-            "version": "0.7.0+1.20.1",
+            "version": "0.7.1+1.20.1",
             "name": "Fzzy Config",
-            "filename": "fzzy_config-0.7.0+1.20.1.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/fzzy_config-0.7.0%2B1.20.1.jar",
-            "sha256": "4ebd2516dd680a0f89c3b0d20f949960db4e1668b37f95a0fbf0a9901c80ffdd"
+            "filename": "fzzy_config-0.7.1+1.20.1.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/fzzy_config-0.7.1%2B1.20.1.jar",
+            "sha256": "b678fa8ac448b9d4368fcd23d0fa8f54ca05258c44423dc181b5522375f21e56"
         },
         {
             "id": "fzzy_core",
@@ -1388,11 +1380,11 @@
         },
         {
             "id": "geckolib",
-            "version": "4.7.2",
+            "version": "4.7.3",
             "name": "GeckoLib 4",
-            "filename": "geckolib-fabric-1.20.1-4.7.2.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/geckolib-fabric-1.20.1-4.7.2.jar",
-            "sha256": "fb2c22664ef0c77d294aa9793ba7f648d8496417e27d1ce7d9e2d7e70e483a70"
+            "filename": "geckolib-fabric-1.20.1-4.7.3.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/geckolib-fabric-1.20.1-4.7.3.jar",
+            "sha256": "d2e85c22db07b77c4ba3ad0f1936fdf32bb4f988847d55da2b877b63ec7010a3"
         },
         {
             "id": "glitchcore",
@@ -1980,11 +1972,11 @@
         },
         {
             "id": "modernfix",
-            "version": "5.24.1+mc1.20.1",
+            "version": "5.24.3+mc1.20.1",
             "name": "ModernFix",
-            "filename": "modernfix-fabric-5.24.1+mc1.20.1.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/modernfix-fabric-5.24.1%2Bmc1.20.1.jar",
-            "sha256": "84a17a1804aff28797d3c8cb6d293fc7e49e74d58c7114d5017c12031f1828b4"
+            "filename": "modernfix-fabric-5.24.3+mc1.20.1.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/modernfix-fabric-5.24.3%2Bmc1.20.1.jar",
+            "sha256": "2236cd1d5d2027efbe1f3ee773d3e639c88ce0cef50bf5c225c7761f9cc04f19"
         },
         {
             "id": "monsters_in_the_closet",
@@ -2164,11 +2156,11 @@
         },
         {
             "id": "packetfixer",
-            "version": "3.1.2",
+            "version": "3.1.4",
             "name": "Packet Fixer",
-            "filename": "packetfixer-3.1.2-1.18-1.20.4-merged.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/packetfixer-3.1.2-1.18-1.20.4-merged.jar",
-            "sha256": "9d244bb2c75b9b874e5a2ed9c8657dcc8bb0c94ae26798ac05f97aeadf467028"
+            "filename": "packetfixer-3.1.4-1.18-1.20.4-merged.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/packetfixer-3.1.4-1.18-1.20.4-merged.jar",
+            "sha256": "c2a89e28cdd798580038bfa2ba498e21f590c1952e549a9837e9f4e87f3410d2"
         },
         {
             "id": "paraglider",
@@ -2444,6 +2436,14 @@
         },
         {
             "id": "smallhorsestable",
+            "version": "1.1.0",
+            "name": "SmallHorseStable",
+            "filename": "smallhorsestable-1.1.0 fabric 1.20.1.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/smallhorsestable-1.1.0%20fabric%201.20.1.jar",
+            "sha256": "c29143a692fbe869cd68f302b590659b4f2d4da5e01d79e5724dfca37781cd6f"
+        },
+        {
+            "id": "smallhorsestable",
             "version": "1.2.0",
             "name": "SmallHorseStable",
             "filename": "smallhorsestable-1.2.0 Fabric 1.20.1.jar",
@@ -2524,11 +2524,11 @@
         },
         {
             "id": "stonezone",
-            "version": "1.20-2.8.10",
+            "version": "1.20-2.8.12",
             "name": "Stone Zone",
-            "filename": "stonezone-1.20-2.8.10-fabric.jar",
-            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/stonezone-1.20-2.8.10-fabric.jar",
-            "sha256": "3a99cfa533454b4a99568322ad05b786fc43cf47f6f5ba4f90b1099e8a78ad27"
+            "filename": "stonezone-1.20-2.8.12-fabric.jar",
+            "url": "https://github.com/oldjollysanta/DVS-CosyCraft/raw/main/mod_pool/stonezone-1.20-2.8.12-fabric.jar",
+            "sha256": "3af2df7c8fca4bc629842bd60b7dbf62ea9a048757d9d7179de0e8588323fa7c"
         },
         {
             "id": "strawstatues",
@@ -2843,5 +2843,5 @@
             "sha256": "ecbd75fc90565234266e29f07f494d6de65baf607e47e8ac2f66e6b9c7957cee"
         }
     ],
-    "releaseNotes": "Modpack Version 1.3.1\n\nServer Side\n- Added Goblin Traders to carry list for easier transport\n\nAdded Mods\n- MoreCobblemonTweaks v0.7.1\n- Zenith Attributes v0.2.10\n- fakerlib v0.1.4\n\nUpdated Mods\n- CosyCraft Updater (v1.1.2 -> v1.1.4)\n- ImmediatelyFast (v1.5.0+1.20.4 -> v1.5.1+1.20.4)\n- Immersive Aircraft (v1.3.0+1.20.1 -> v1.3.3+1.20.1)\n- Supplementaries (v1.20-3.1.34 -> v1.20-3.1.36)\n\nRemoved Mods\n- Pickup Notifications v1.5.2\n- Simple Voice Chat v1.20.1-2.5.33\n\n\n==========================\n\nModpack Version 1.2\n\nMajor update to Traveller's bakpacks!!!\nChanged Backpack inventory sizes\nBalanced Abilities\nAdded 11 new upgrades that can be applied directly in backpack's inventory: Tanks, Crafting, Magnet, Pickup, Feeding, Jukebox, Void, Furnace Upgrade, Smoker Upgrade, Blast Furnace Upgrade and Warden Backpack\nRecipe changes\nTanks can be filled/drained with hovered item\nConverting custom backpacks to standard is done with in-world interaction now - use shears on placed custom backpack\nSleeping Bag can be used directly from the equipped backpack without need to unequipping and placing on the ground\nRewritten whole backpack inventory code\nImproved Accessories integration - players can backpacks to back slot (config options)\n\n\nUpdated Mods:\n3d-Skin-Layers (v1.7.5 -> v1.8.1)\nA Man With Plushies (v4.2.12 -> v4.4.0)\nAlmostUnified (v1.20.1-0.9.4 -> v1.20.1-0.10.0)\nAmendments (v1.20-1.2.14 -> v1.20-1.2.19)\nArtifacts (v9.5.13 -> v9.5.15)\nBalm (v7.3.11 -> v7.3.31)\nChat Heads (v0.13.7 -> v0.13.18)\nCobbreeding (v1.7.2 -> v1.7.4)\nCompactStorage (v6.0.1.64 -> v7.1.84)\nConnectivity Mod (v1.20.1-6.3 -> v1.20.1-7.1)\nCosyCraft Updater (v1.0.0 -> v1.1.2)\nCreate Crafts & Additions (v1.2.4 -> v1.2.6)\nCreate: Copycats+ (v2.1.4+mc.1.20.1-fabric -> v2.2.2+mc.1.20.1-fabric)\nCreate: Let The Adventure Begin (v2.7.0 -> v2.7.0)\nDynamic Crosshair (v9.3 -> v9.6)\nDynamic Crosshair Compat (v4.2 -> v4.3)\nEMI (v1.1.19+1.20.1+fabric -> v1.1.22+1.20.1+fabric)\nEMIffect (v1.1.2+mc1.20.1 -> v2.1.5+mc1.20.1)\nEntityCulling (v1.7.4 -> v1.8.1)\nEvery Compat (v1.20-2.8.6 -> v1.20-2.8.12)\nExposure (v1.7.7 -> v1.7.16)\nFTB Chunks (v2001.3.4 -> v2001.3.6)\nFTB Essentials (v2001.2.2 -> v2001.2.3)\nFTB Library (v2001.2.7 -> v2001.2.9)\nFTB Quests (v2001.4.9 -> v2001.4.13)\nFTB Teams (v2001.3.0 -> v2001.3.1)\nFTB XMod Compat (v2.1.2 -> v2.1.3)\nFabric API (v0.92.3+1.20.1 -> v0.92.6+1.20.1)\nFabric Language Kotlin (v1.13.0+kotlin.2.1.0 -> v1.13.4+kotlin.2.2.0)\nFabric Waystones (v3.3.2+mc1.20.1 -> v3.3.3+mc1.20.1)\nFarmer's Delight (v1.20.1-2.2.5+refabricated -> v1.20.1-2.4.0+refabricated)\nFast IP Ping (v1.0.5 -> v1.0.7)\nForge Config API Port (v8.0.1 -> v8.0.2)\nFriends&Foes (v3.0.6 -> v3.0.9)\nGeckoLib 4 (v4.7 -> v4.7.2)\nGlobal Packs (v1.3.7 -> v19.3.5)\nHopo Better Mineshaft (v1.2.2 -> v1.2.2)\nIcarus (v2.10.0 -> v2.12.0)\nIllager Invasion (v8.0.6 -> v8.0.7)\nImmediatelyFast (v1.3.3+1.20.4 -> v1.5.0+1.20.4)\nImmersive Aircraft (v1.1.8+1.20.1 -> v1.3.0+1.20.1)\nImmersive Paintings (v0.6.7+1.20.1 -> v0.6.8+1.20.1)\nInventory Profiles Next (v1.10.11 -> v1.10.12)\nJade (v11.11.0+fabric -> v11.13.1+fabric)\nLanguage Reload (v1.7.2+1.20.1 -> v1.7.4+1.20.1)\nLithium (v0.11.2 -> v0.11.3)\nMacaw's Bridges (v3.0.0 -> v3.1.0)\nMacaw's Doors (v1.1.1 -> v1.1.2)\nMacaw's Fences and Walls (v1.1.2 -> v1.2.0)\nMacaw's Lights and Lamps (v1.1.1 -> v1.1.2)\nMacaw's Paths and Pavings (v1.0.5 -> v1.1.0)\nMacaw's Roofs (v2.3.1 -> v2.3.2)\nMacaw's Windows (v2.3.0 -> v2.4.0)\nMemory Leak Fix (v1.1.2 -> v1.1.5)\nModernFix (v5.20.0+mc1.20.1 -> v5.24.1+mc1.20.1)\nMoonlight (v1.20-2.14.4 -> v1.20-2.14.13)\nMythic Metals (v0.19.9+1.20.1 -> v0.19.10+1.20.1)\nNaturalist (v4.0.3 -> v5.0pre3)\nNotEnoughAnimations (v1.9.0 -> v1.10.1)\nNumismatic Overhaul (v0.2.14+1.20 -> v0.2.17+1.20)\nPacket Fixer (v1.4.3 -> v3.1.2)\nParticle Core (v0.2.5+1.20.1 -> v0.2.6+1.20.1)\nPatchouli (v1.20.1-84-FABRIC -> v1.20.1-84.1-FABRIC)\nPing Wheel (v1.10.1 -> v1.10.3)\nPolymorph (v0.49.8+1.20.1 -> v0.49.10+1.20.1)\nPuzzles Lib (v8.1.25 -> v8.1.32)\nRemove Terralith Intro Message (v1.0 -> v1.1)\nResourcefulconfig (v2.1.2 -> v2.1.3)\nRhino (v2001.2.3-build.6 -> v2001.2.3-build.10)\nRibbits (v1.20.1-Fabric-3.0.2 -> v1.20.1-Fabric-3.0.4)\nSeasonHUD (v1.11.7 -> v1.13.5)\nSereneSeasons (v9.1.0.0 -> v9.1.0.2)\nSimple Voice Chat (v1.20.1-2.5.26 -> v1.20.1-2.5.33)\nSimpleTMs (v1.1.2 -> v2.0.2-backport)\nSmallHorseStable (v1.1.0 -> v1.2.0)\nStack Refill (v4.7 -> v4.9)\nStone Zone (v1.20-2.8.7 -> v1.20-2.8.10)\nStructure Essentials Mod (v1.20.1-3.4 -> v1.20.1-4.8)\nSubtle Effects (v1.10.1 -> v1.11.0)\nSupplementaries (v1.20-3.1.31 -> v1.20-3.1.34)\nTerraBlender (v3.0.1.7 -> v3.0.1.10)\nTom's Simple Storage Mod (v1.6.9 -> v1.7.1)\nTrade Cycling (v1.20.1-1.0.7 -> v1.20.1-1.0.18)\nTraveler's Backpack (v9.1.18 -> v9.1.37)\nUbe's Delight (v0.3.2 -> v0.4.2)\nWaveyCapes (v1.5.2 -> v1.6.1.1)\nWhat Are They Up To (v1.20.1-1.1.3 -> v1.20.1-1.2.3)\nYetAnotherConfigLib (v3.6.2+1.20.1-fabric -> v3.6.6+1.20.1-fabric)\nYou're in Grave Danger (v2.0.14 -> v2.0.16)\nZoomify (v2.14.2+1.20.1 -> v2.14.4+1.20.1)\n[Let's Do] HerbalBrews (v1.0.8.1 -> v1.0.12)\nrecipeessentials Mod (v1.20.1-3.9 -> v1.20.1-4.1)\n\n\nRemoved Mods:\nGlobal Data- & Resourcepacks v1.16.1_fabric\nPolymorphic Tom v1.0.3 (Tom's Simple Storage added this!)"
+    "releaseNotes": "Modpack Version 1.4\n\nRemoved one fo two competing network performance mods which *may* be the cause for the unexplained item vanishing.\nMajor update for the CandleLight Mod (cooking)\nMajor update for Distant Horizons which improves both client & server performance, as well as network communication.\n\nUpdated Mods\n- 3d-Skin-Layers (v1.8.1 -> v1.8.2)\n- Balm (v7.3.31 -> v7.3.33)\n- Building But Better (v1.20.1-fabric-1.0.2 -> v2.0pre2)\n- Critters and Companions (v2.2.2 -> v1.20.1-2.3.0)\n- Distant Horizons (v2.3.2-b -> v2.3.4-b)\n- Dynamic Crosshair (v9.6 -> v9.8)\n- EntityCulling (v1.8.1 -> v1.8.2)\n- Every Compat (v1.20-2.8.12 -> v1.20-2.8.13)\n- Fzzy Config (v0.7.0+1.20.1 -> v0.7.1+1.20.1)\n- GeckoLib 4 (v4.7.2 -> v4.7.3)\n- ModernFix (v5.24.1+mc1.20.1 -> v5.24.3+mc1.20.1)\n- Packet Fixer (v3.1.2 -> v3.1.4)\n- Stone Zone (v1.20-2.8.10 -> v1.20-2.8.12)\n- [Let's Do] Candlelight (v1.2.13 -> v2.0.4)\n- emi-letsdo-compat (v1.5 -> v1.6)\n\nRemoved Mods\n- Connectivity Mod v1.20.1-7.1\n\n\n==========================\n\nModpack Version 1.3.1\n\nServer Side\n- Added Goblin Traders to carry list for easier transport\n\nAdded Mods\n- MoreCobblemonTweaks v0.7.1\n- Zenith Attributes v0.2.10\n- fakerlib v0.1.4\n\nUpdated Mods\n- CosyCraft Updater (v1.1.2 -> v1.1.4)\n- ImmediatelyFast (v1.5.0+1.20.4 -> v1.5.1+1.20.4)\n- Immersive Aircraft (v1.3.0+1.20.1 -> v1.3.3+1.20.1)\n- Supplementaries (v1.20-3.1.34 -> v1.20-3.1.36)\n\nRemoved Mods\n- Pickup Notifications v1.5.2\n- Simple Voice Chat v1.20.1-2.5.33\n\n\n==========================\n\nModpack Version 1.2\n\nMajor update to Traveller's bakpacks!!!\nChanged Backpack inventory sizes\nBalanced Abilities\nAdded 11 new upgrades that can be applied directly in backpack's inventory: Tanks, Crafting, Magnet, Pickup, Feeding, Jukebox, Void, Furnace Upgrade, Smoker Upgrade, Blast Furnace Upgrade and Warden Backpack\nRecipe changes\nTanks can be filled/drained with hovered item\nConverting custom backpacks to standard is done with in-world interaction now - use shears on placed custom backpack\nSleeping Bag can be used directly from the equipped backpack without need to unequipping and placing on the ground\nRewritten whole backpack inventory code\nImproved Accessories integration - players can backpacks to back slot (config options)\n\n\nUpdated Mods:\n3d-Skin-Layers (v1.7.5 -> v1.8.1)\nA Man With Plushies (v4.2.12 -> v4.4.0)\nAlmostUnified (v1.20.1-0.9.4 -> v1.20.1-0.10.0)\nAmendments (v1.20-1.2.14 -> v1.20-1.2.19)\nArtifacts (v9.5.13 -> v9.5.15)\nBalm (v7.3.11 -> v7.3.31)\nChat Heads (v0.13.7 -> v0.13.18)\nCobbreeding (v1.7.2 -> v1.7.4)\nCompactStorage (v6.0.1.64 -> v7.1.84)\nConnectivity Mod (v1.20.1-6.3 -> v1.20.1-7.1)\nCosyCraft Updater (v1.0.0 -> v1.1.2)\nCreate Crafts & Additions (v1.2.4 -> v1.2.6)\nCreate: Copycats+ (v2.1.4+mc.1.20.1-fabric -> v2.2.2+mc.1.20.1-fabric)\nCreate: Let The Adventure Begin (v2.7.0 -> v2.7.0)\nDynamic Crosshair (v9.3 -> v9.6)\nDynamic Crosshair Compat (v4.2 -> v4.3)\nEMI (v1.1.19+1.20.1+fabric -> v1.1.22+1.20.1+fabric)\nEMIffect (v1.1.2+mc1.20.1 -> v2.1.5+mc1.20.1)\nEntityCulling (v1.7.4 -> v1.8.1)\nEvery Compat (v1.20-2.8.6 -> v1.20-2.8.12)\nExposure (v1.7.7 -> v1.7.16)\nFTB Chunks (v2001.3.4 -> v2001.3.6)\nFTB Essentials (v2001.2.2 -> v2001.2.3)\nFTB Library (v2001.2.7 -> v2001.2.9)\nFTB Quests (v2001.4.9 -> v2001.4.13)\nFTB Teams (v2001.3.0 -> v2001.3.1)\nFTB XMod Compat (v2.1.2 -> v2.1.3)\nFabric API (v0.92.3+1.20.1 -> v0.92.6+1.20.1)\nFabric Language Kotlin (v1.13.0+kotlin.2.1.0 -> v1.13.4+kotlin.2.2.0)\nFabric Waystones (v3.3.2+mc1.20.1 -> v3.3.3+mc1.20.1)\nFarmer's Delight (v1.20.1-2.2.5+refabricated -> v1.20.1-2.4.0+refabricated)\nFast IP Ping (v1.0.5 -> v1.0.7)\nForge Config API Port (v8.0.1 -> v8.0.2)\nFriends&Foes (v3.0.6 -> v3.0.9)\nGeckoLib 4 (v4.7 -> v4.7.2)\nGlobal Packs (v1.3.7 -> v19.3.5)\nHopo Better Mineshaft (v1.2.2 -> v1.2.2)\nIcarus (v2.10.0 -> v2.12.0)\nIllager Invasion (v8.0.6 -> v8.0.7)\nImmediatelyFast (v1.3.3+1.20.4 -> v1.5.0+1.20.4)\nImmersive Aircraft (v1.1.8+1.20.1 -> v1.3.0+1.20.1)\nImmersive Paintings (v0.6.7+1.20.1 -> v0.6.8+1.20.1)\nInventory Profiles Next (v1.10.11 -> v1.10.12)\nJade (v11.11.0+fabric -> v11.13.1+fabric)\nLanguage Reload (v1.7.2+1.20.1 -> v1.7.4+1.20.1)\nLithium (v0.11.2 -> v0.11.3)\nMacaw's Bridges (v3.0.0 -> v3.1.0)\nMacaw's Doors (v1.1.1 -> v1.1.2)\nMacaw's Fences and Walls (v1.1.2 -> v1.2.0)\nMacaw's Lights and Lamps (v1.1.1 -> v1.1.2)\nMacaw's Paths and Pavings (v1.0.5 -> v1.1.0)\nMacaw's Roofs (v2.3.1 -> v2.3.2)\nMacaw's Windows (v2.3.0 -> v2.4.0)\nMemory Leak Fix (v1.1.2 -> v1.1.5)\nModernFix (v5.20.0+mc1.20.1 -> v5.24.1+mc1.20.1)\nMoonlight (v1.20-2.14.4 -> v1.20-2.14.13)\nMythic Metals (v0.19.9+1.20.1 -> v0.19.10+1.20.1)\nNaturalist (v4.0.3 -> v5.0pre3)\nNotEnoughAnimations (v1.9.0 -> v1.10.1)\nNumismatic Overhaul (v0.2.14+1.20 -> v0.2.17+1.20)\nPacket Fixer (v1.4.3 -> v3.1.2)\nParticle Core (v0.2.5+1.20.1 -> v0.2.6+1.20.1)\nPatchouli (v1.20.1-84-FABRIC -> v1.20.1-84.1-FABRIC)\nPing Wheel (v1.10.1 -> v1.10.3)\nPolymorph (v0.49.8+1.20.1 -> v0.49.10+1.20.1)\nPuzzles Lib (v8.1.25 -> v8.1.32)\nRemove Terralith Intro Message (v1.0 -> v1.1)\nResourcefulconfig (v2.1.2 -> v2.1.3)\nRhino (v2001.2.3-build.6 -> v2001.2.3-build.10)\nRibbits (v1.20.1-Fabric-3.0.2 -> v1.20.1-Fabric-3.0.4)\nSeasonHUD (v1.11.7 -> v1.13.5)\nSereneSeasons (v9.1.0.0 -> v9.1.0.2)\nSimple Voice Chat (v1.20.1-2.5.26 -> v1.20.1-2.5.33)\nSimpleTMs (v1.1.2 -> v2.0.2-backport)\nSmallHorseStable (v1.1.0 -> v1.2.0)\nStack Refill (v4.7 -> v4.9)\nStone Zone (v1.20-2.8.7 -> v1.20-2.8.10)\nStructure Essentials Mod (v1.20.1-3.4 -> v1.20.1-4.8)\nSubtle Effects (v1.10.1 -> v1.11.0)\nSupplementaries (v1.20-3.1.31 -> v1.20-3.1.34)\nTerraBlender (v3.0.1.7 -> v3.0.1.10)\nTom's Simple Storage Mod (v1.6.9 -> v1.7.1)\nTrade Cycling (v1.20.1-1.0.7 -> v1.20.1-1.0.18)\nTraveler's Backpack (v9.1.18 -> v9.1.37)\nUbe's Delight (v0.3.2 -> v0.4.2)\nWaveyCapes (v1.5.2 -> v1.6.1.1)\nWhat Are They Up To (v1.20.1-1.1.3 -> v1.20.1-1.2.3)\nYetAnotherConfigLib (v3.6.2+1.20.1-fabric -> v3.6.6+1.20.1-fabric)\nYou're in Grave Danger (v2.0.14 -> v2.0.16)\nZoomify (v2.14.2+1.20.1 -> v2.14.4+1.20.1)\n[Let's Do] HerbalBrews (v1.0.8.1 -> v1.0.12)\nrecipeessentials Mod (v1.20.1-3.9 -> v1.20.1-4.1)\n\n\nRemoved Mods:\nGlobal Data- & Resourcepacks v1.16.1_fabric\nPolymorphic Tom v1.0.3 (Tom's Simple Storage added this!)"
 }
